@@ -2,7 +2,7 @@
 % Please edit documentation in R/solve.QP1.R
 \name{solve.QP1}
 \alias{solve.QP1}
-\title{creates vimal and negative}
+\title{creates QP and negative}
 \usage{
 \method{solve}{QP1}(Dmat, dvec, Amat, bvec, meq = 0, factorized = FALSE)
 }
